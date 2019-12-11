@@ -22,3 +22,4 @@ class Post
       return nil
     end
   end
+end
